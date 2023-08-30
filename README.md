@@ -5,3 +5,5 @@ NPM     : 2206029645
 Kelas   : PBP E
 
 Hobi    : Workout   
+
+Jurusan : Sistem Informasi
